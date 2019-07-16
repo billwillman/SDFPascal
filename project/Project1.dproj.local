@@ -5,5 +5,7 @@
     <Transaction>2019/07/15 10:38:47.155,D:\SDFPascal\project\Unit1.pas=D:\Unit1.pas</Transaction>
     <Transaction>2019/07/15 10:38:47.155,D:\SDFPascal\project\Unit1.dfm=D:\Unit1.dfm</Transaction>
     <Transaction>2019/07/15 10:38:55.393,D:\SDFPascal\project\Project1.dproj=D:\Project1.dproj</Transaction>
+    <Transaction>2019/07/15 10:40:57.588,=D:\SDFPascal\project\Unit2.pas</Transaction>
+    <Transaction>2019/07/15 10:41:23.860,D:\SDFPascal\project\library\sdf.pas=D:\SDFPascal\project\Unit2.pas</Transaction>
   </Transactions>
 </BorlandProject>
